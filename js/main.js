@@ -84,9 +84,5 @@ $(document).ready(function () {
       location.reload()
     })
   }
-
-  // Reloj
-  var reloj = moment().format("hh:mm:ss")
-  $('#reloj').html(reloj)
-
+ 
 });

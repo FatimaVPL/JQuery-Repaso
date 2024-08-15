@@ -208,17 +208,32 @@ background-color: #ca3413;
     margin-top: 40px;
     background-color: #c9cccc;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 #box h3{
     background-color: #2892a3;
     height: 50px;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 20px;
+    color: #e9eaea;
 }
 
 h2{
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 50px;
     color: #051a54
+}
+
+#box:hover{
+    background-color: #3ab3b3;
+}
+
+#reloj{
+    background-color: #ccc;
+    padding: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
 }
